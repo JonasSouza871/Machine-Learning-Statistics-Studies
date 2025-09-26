@@ -38,11 +38,11 @@ This repository contains my comprehensive studies in **Machine Learning**, **Sta
 ## 📂 Repository Structure
 
 ```
-📁 Estatística básica/          # Fundamental statistical concepts and applications
-📁 Cálculo básico/              # Mathematical foundations for ML
-📁 Regressão/                   # Regression analysis and modeling techniques
-📁 Funções de Ativação/         # Neural network activation functions
-📁 Teste de Hipóteses/          # Statistical hypothesis testing
+📁 Basic_Statistics/            # Fundamental statistical concepts and applications
+📁 Basic_Calculus/              # Mathematical foundations for ML
+📁 Regression/                  # Regression analysis and modeling techniques
+📁 Activation_Functions/        # Neural network activation functions
+📁 Hypothesis_Testing/          # Statistical hypothesis testing
 ```
 
 ## 🎓 Key Learning Outcomes
